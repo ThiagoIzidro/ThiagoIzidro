@@ -64,7 +64,7 @@
   <a href="mailto:thiagoizidro1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5511986261007&text=Fale+conosco&type=phone_number&app_absent=0">
+  <a href="https://api.whatsapp.com/send/?phone=5511985932959&text=Fale+conosco&type=phone_number&app_absent=0">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
